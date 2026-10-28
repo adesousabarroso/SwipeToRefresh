@@ -1,0 +1,1 @@
+Atom remote acceptance fixture. Temporary branch; never merge.
